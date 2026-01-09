@@ -24,6 +24,6 @@ This project demonstrates controlled inputs, form validation logic, and state ma
 - **JavaScript (ES6+)**
 - **CSS / Tailwind CSS**
 
----
+
 
 
