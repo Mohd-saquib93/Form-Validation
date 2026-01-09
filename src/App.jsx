@@ -66,13 +66,11 @@ const App = () => {
   const isValidForm = () => {
     const copyFormData = { ...formData };
 
-    // Check for empty fields
     Object.keys(copyFormData).forEach((key) => {
       const obj = copyFormData[key];
       obj.isError = !obj.value ? true : false;
     });
 
-    // ✅ Check if passwords match
     const pass = copyFormData.password.value;
     const cPass = copyFormData.confirmPassword.value;
     setIsPassMatch(pass === cPass);
