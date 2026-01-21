@@ -22,7 +22,7 @@ This project demonstrates controlled inputs, form validation logic, and state ma
 
 - **React**
 - **JavaScript (ES6+)**
-- **CSS / Tailwind CSS**
+-  **CSS / Tailwind CSS**
 
 
 

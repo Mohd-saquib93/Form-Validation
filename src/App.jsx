@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 
-const App = () => {
-  const defaultValues = {
-    firstName: {
+  const App = () => {
+   const defaultValues = {
+      firstName: {
       id: 'firstName',
       label: 'First Name',
       type: 'text',
