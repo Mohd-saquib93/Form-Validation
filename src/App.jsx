@@ -112,7 +112,7 @@ import React, { useState } from 'react';
           <div className="form-item2 flex justify-center">
             <button
               type="submit"
-              className="cursor-pointer bg-blue-200 rounded-[5px] mt-6 w-[150px] h-[40px]"
+              className="cursor-pointer  bg-blue-200 rounded-[5px] mt-6 w-[150px] h-[40px]"
             >
               Submit
             </button>
